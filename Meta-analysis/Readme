@@ -1,1 +1,21 @@
+### UDMI IPDMA 2025
+## Andrew Chapman
+## June 2025
 
+This code is intended to provide an example to facilitate future collaborative IPDMA
+
+It is designed to be run as an R Project
+
+The code will generate meta estimates of unadjusted and adjusted cox regression and subdistribution hazard ratio models derived at a cohort level
+The code includes functions to extract data, to cycle through pre-specified primary and secondary outcomes by follow up time
+The code for forest plots is also provided
+
+Users should orientate themselves with 'ma-main.R' as a central script
+The data structure required is demonstrated in 'Cohort Preparation' steps
+File location is end user specific and requires updating should this be used in future
+
+Support is not guaranteed but advice can be sought on discussion with the authors.
+
+This script will be updated with the location of our final publication in due course.
+
+A Chapman 
