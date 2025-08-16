@@ -1,20 +1,20 @@
 # UDMI-IPDMA Project 
-Collaborative UDMI IPDMA meta-analysis  (2025)
-Code prepared by Dr Andrew Chapman and Dr Pedro Lopez-Alaya
-University of Edinburgh // University of Basel
-Registered at PROSPERO: CRD42023464836
+Collaborative UDMI IPDMA meta-analysis  (2025) <br/>
+Code prepared by Dr Andrew Chapman and Dr Pedro Lopez-Alaya <br/>
+University of Edinburgh // University of Basel <br/>
+Registered at PROSPERO: CRD42023464836 <br/>
 
 # UDMI-IPDMA Manuscript
-Senior Author Dr Andrew Chapman 
-Lead Author Dr Jasper Boeddinghaus 
+Senior Author Dr Andrew Chapman <br/>
+Lead Author Dr Jasper Boeddinghaus <br/>
 
-This code was produced to facilitate an international collaborative meta-analysis.
+This code was produced to facilitate an international collaborative meta-analysis.<br/>
 
-It uses a main template to source code in a new project within R. 
+It uses a main template to source code in a new project within R. <br/>
 
-A copy of the distributed README file is enclosed below
+A copy of the distributed README file is enclosed below<br/>
 
-Our final manuscript is available for review here [will update when published]
+Our final manuscript is available for review here [will update when published]<br/>
 
 ===============================
 
