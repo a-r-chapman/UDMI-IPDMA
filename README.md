@@ -1,6 +1,6 @@
 # UDMI-IPDMA Project 
 Collaborative UDMI IPDMA meta-analysis  (2025) <br/>
-Code prepared by Dr Andrew Chapman and Dr Pedro Lopez-Alaya <br/>
+Code prepared by Dr Andrew Chapman and Dr Pedro Lopez-Ayala <br/>
 University of Edinburgh // University of Basel <br/>
 Registered at PROSPERO: CRD42023464836 <br/>
 
